@@ -1,0 +1,10 @@
+h1 {
+  background-color: black;
+  color: aqua;
+}
+.hello {
+  border: 7px solid rgb(25, 207, 92);
+}
+#hello {
+  border: 10px solid slateblue;
+}
